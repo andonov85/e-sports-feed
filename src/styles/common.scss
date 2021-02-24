@@ -1,0 +1,28 @@
+.e-sports-feed--container {
+    text-align: center;
+}
+
+.e-sports-feed-match {
+    font-size: 1.3rem;
+    color: rgb(255, 0, 0);
+}
+
+.e-sports-feed-bet {
+    font-size: 1.1rem;
+    color: rgb(43, 156, 160);
+}
+
+.e-sports-feed-odd {
+    font-size: 0.9rem;
+    color: rgb(41, 184, 36);
+}
+
+.e-sports-feed-match, .e-sports-feed-bet, .e-sports-feed-odd {
+    span:first-of-type {
+        margin-right: 15px
+    }
+}
+
+.e-sports-feed-loader {
+    margin-top: 2rem;
+}
